@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+position: relative;
+width: 960px;
+height: 1660px;
+background: linear-gradient(180deg, #69C3E0 0%, rgba(105, 195, 224, 0.598918) 0.01%, rgba(105, 195, 224, 0.546396) 0.02%, rgba(105, 195, 224, 0.538484) 0.03%, rgba(105, 195, 224, 0.598918) 0.04%, rgba(105, 195, 224, 0.526824) 0.05%, rgba(59, 151, 180, 0.300545) 52.08%, rgba(0, 0, 0, 0) 83.33%, rgba(255, 255, 255, 0) 99.99%);
+}
+.img1{
+     margin: 15px auto 15px 15px;
+
+}
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+    position: absolute;
+    width: 960px;
+    height: 105px;
+    left: 0px;
+    top: 0px;
+    background: #000000;
+    align-items: center;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin: auto 27px 30px 28px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px auto 0px auto ;
+    display: flex;
+    max-width: 1100px;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: ;
+}
+
+.article-but {
+    text-decoration: none;
+background: linear-gradient(180deg, #69C3E0 0%, rgba(105, 195, 224, 0.598918) 0.01%, rgba(105, 195, 224, 0.546396) 0.02%, rgba(105, 195, 224, 0.538484) 0.03%, rgba(105, 195, 224, 0.598918) 0.04%, rgba(105, 195, 224, 0.526824) 0.05%, rgba(59, 151, 180, 0.300545) 52.08%, rgba(0, 0, 0, 0) 83.33%, rgba(255, 255, 255, 0) 99.99%);
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 100px 18px 75px;
+    display: flex;
+    justify-content: center;
+}
+footer {
+    background-color: white;
+    padding: ;
+}
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+.padding{
+    margin: 35px 35px 20px 20px;
+    padding: 15px 45px 30px 45px;
+}
+a{
+    display: block;
+}
+.img123{
+    min-height: 270px;
+    
+}
